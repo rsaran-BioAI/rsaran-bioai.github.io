@@ -6,7 +6,7 @@ subtitle: Affiliate Research Scientist at <a href='https://icasssd.org'>Internat
 
 profile:
   align: right
-  image: rsaran.jpeg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Runjhun Saran Narayan</p>
