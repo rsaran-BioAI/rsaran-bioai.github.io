@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lucasresck.github.io/sitemap.xml
+Sitemap: https://rsaran-bioai.github.io/sitemap.xml
