@@ -1,13 +1,13 @@
-# - title: Personal Information
-#  type: map
-#  contents:
-#    - name: Full name
-#     value: Lucas Emanuel Resck Domingues
-#  - name: Position
-#      value: MSc student in Mathematical Modeling
-#    - name: School
-#      value: Fundação Getulio Vargas
-#    - name: Place
+ # - title: Personal Information
+ #  type: map
+ #  contents:
+ #    - name: Full name
+ #     value: Lucas Emanuel Resck Domingues
+ #  - name: Position
+ #      value: MSc student in Mathematical Modeling
+ #    - name: School
+ #      value: Fundação Getulio Vargas
+ #    - name: Place
     #   value: Rio de Janeiro, Brazil
     # - name: Email
     #   value: <a href="mailto:lucas.resck@fgv.br">lucas.resck@fgv.br</a>
