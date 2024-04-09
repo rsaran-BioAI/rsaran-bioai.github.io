@@ -18,123 +18,203 @@ Buttons:
 - `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
 - `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
 
-@phdthesis{domingues_inferring_2021,
-	address = {Rio de Janeiro, Brazil},
-	title = {Inferring and {Explaining} {Potential} {Citations} to {Binding} {Precedents} in {Brazilian} {Supreme} {Court} {Decisions}},
-	url = {https://hdl.handle.net/10438/31845},
-	abstract = {The Brazilian Supreme Court (STF) is the highest law court in Brazil and it is primarily responsible for guarding the Brazilian Constitution. To reduce judicial insecurity and the high Court’s workload, a Constitutional Amendment from 2004 allowed STF to create binding precedents (“Súmulas Vinculantes,” BPs). A BP is a statement that consolidates the understanding of STF about a legal matter and has mandatory application for lower branches of the Judiciary. Frequently, an STF Justice cites a BP in a decision, and it is trivial to search for these explicit citations using regular expressions. However, it is not trivial to assert whether a decision potentially cites the statement, in the sense of “it should have cited it, but it did not” or “it addresses a similar issue, so they are related.” This work explores machine learning and natural language processing (NLP) algorithms to infer and explain these potential citations. The inference is performed using models from classical machine learning theory and recent NLP research, and the explanation is achieved using a machine learning explainability technique. The models learn what characterizes a citation through training on documents with explicit citations, in which we demonstrate they achieve high performance. We present two case studies that demonstrate the usefulness of the trained models to search for potential citations when accompanied 
-by the explainability technique to inform the most relevant parts of the document for the potential citation assignment.},
-	language = {eng},
-	urldate = {2022-07-21},
-	school = {Fundação Getulio Vargas},
-	author = {Domingues, Lucas Emanuel Resck},
-	month = dec,
-	year = {2021},
-	abbr = {BSc thesis},
-	bibtex_show = true,
-	html = {https://hdl.handle.net/10438/31845},
-	pdf = {https://repositorio.fgv.br/server/api/core/bitstreams/a1a7d243-3f54-4557-8b4f-35665db72af9/content}
+@article{saran2017silver,
+  title={A silver-specific DNAzyme with a new silver aptamer and salt-promoted activity},
+  author={Saran, Runjhun and Kleinke, Kimberly and Zhou, Wenhu and Yu, Tianmeng and Liu, Juewen},
+  journal={Biochemistry},
+  volume={56},
+  number={14},
+  pages={1955--1962},
+  year={2017},
+  publisher={ACS Publications}
 }
 
-@techreport{domingues_circuits_2018,
-	address = {Varginha, Brazil},
-	type = {Scientific initiation project report},
-	title = {Circuits for {Driving} {Low} {Power} {Direct} {Current} {Motors}},
-	language = {pt},
-	institution = {Federal Center for Technological Education of Minas Gerais},
-	author = {Domingues, Lucas Emanuel Resck and Blahun, Júlia Gandini},
-	year = {2018},
-	note = {Original title in Portuguese: "Circuitos para Acionamento de Motores de Corrente Contínua de Baixa Potência"},
-	pages = {32},
-	abbr = {Report},
-	bibtex_show = true,
+@article{zhou2017metal,
+  title={Metal sensing by DNA},
+  author={Zhou, Wenhu and Saran, Runjhun and Liu, Juewen},
+  journal={Chemical reviews},
+  volume={117},
+  number={12},
+  pages={8272--8325},
+  year={2017},
+  publisher={American Chemical Society}
 }
 
-@techreport{blahun_brazilian_2016,
-	address = {Varginha, Brazil},
-	type = {Scientific initiation project report},
-	title = {Brazilian {Robotics} {Olympiad} – {OBR}’2016, {Level} {II} {Practical} {Modality}},
-	language = {pt},
-	institution = {Federal Center for Technological Education of Minas Gerais},
-	author = {Blahun, Júlia Gandini and Regina, Luiza de Souza Pinto and Domingues, Lucas Emanuel Resck},
-	year = {2016},
-	note = {Original title in Portuguese: "Olimpíada Brasileira de Robótica – OBR’2016, Modalidade Prática de Nível II"},
-	pages = {13},
-	abbr = {Report},
-	bibtex_show = true,
+@article{kleinke2016label,
+  title={Label-free Ag+ detection by enhancing DNA sensitized Tb3+ luminescence},
+  author={Kleinke, Kimberly and Saran, Runjhun and Liu, Juewen},
+  journal={Sensors},
+  volume={16},
+  number={9},
+  pages={1370},
+  year={2016},
+  publisher={MDPI}
 }
 
-@inproceedings{pereira_distill_2023-1,
-	address = {Valencia, Spain},
-	series = {Proceedings of {Machine} {Learning} {Research}},
-	title = {Distill n' {Explain}: explaining graph neural networks using simple surrogates},
-	volume = {206},
-	shorttitle = {Distill n' {Explain}},
-	url = {https://proceedings.mlr.press/v206/pereira23a.html},
-	abstract = {Explaining node predictions in graph neural networks (GNNs) often boils down to finding graph substructures that preserve predictions. Finding these structures usually implies back-propagating through the GNN, bonding the complexity (e.g., number of layers) of the GNN to the cost of explaining it. This naturally begs the question: Can we break this bond by explaining a simpler surrogate GNN? To answer the question, we propose Distill n' Explain (DnX). First, DnX learns a surrogate GNN via knowledge distillation. Then, DnX extracts node or edge-level explanations by solving a simple convex program. We also propose FastDnX, a faster version of DnX that leverages the linear decomposition of our surrogate model. Experiments show that DnX and FastDnX often outperform state-of-the-art GNN explainers while being orders of magnitude faster. Additionally, we support our empirical findings with theoretical results linking the quality of the surrogate model (i.e., distillation error) to the faithfulness of explanations.},
-	language = {en},
-	urldate = {2023-04-30},
-	booktitle = {Proceedings of {The} 26th {International} {Conference} on {Artificial} {Intelligence} and {Statistics}},
-	publisher = {PMLR},
-	author = {Pereira, Tamara and Nascimento, Erik and Resck, Lucas E. and Mesquita, Diego and Souza, Amauri},
-	month = apr,
-	year = {2023},
-	pages = {6199--6214},
-	abbr = {AISTATS 2023},
-	arxiv = {2303.10139},
-	bibtex_show = true,
-	html = {https://proceedings.mlr.press/v206/pereira23a.html},
-	pdf = {https://proceedings.mlr.press/v206/pereira23a/pereira23a.pdf},
-	code = {https://github.com/tamararruda/DnX},
-	poster = {publications/pereira_distill_2023-1_poster.pdf},
-	video = {https://youtu.be/DsTpJfjz6BQ},
-	selected = {true},
+@article{saran2016silver,
+  title={A silver DNAzyme},
+  author={Saran, Runjhun and Liu, Juewen},
+  journal={Analytical chemistry},
+  volume={88},
+  number={7},
+  pages={4014--4020},
+  year={2016},
+  publisher={ACS Publications}
 }
 
-@article{resck_legalvis_2023,
-	title = {{LegalVis}: {Exploring} and {Inferring} {Precedent} {Citations} in {Legal} {Documents}},
-	volume = {29},
-	issn = {1941-0506},
-	shorttitle = {{LegalVis}},
-	url = {https://doi.org/10.1109/TVCG.2022.3152450},
-	doi = {10.1109/TVCG.2022.3152450},
-	abstract = {To reduce the number of pending cases and conflicting rulings in the Brazilian Judiciary, the National Congress amended the Constitution, allowing the Brazilian Supreme Court (STF) to create binding precedents (BPs), i.e., a set of understandings that both Executive and lower Judiciary branches must follow. The STF's justices frequently cite the 58 existing BPs in their decisions, and it is of primary relevance that judicial experts could identify and analyze such citations. To assist in this problem, we propose LegalVis, a web-based visual analytics system designed to support the analysis of legal documents that cite or could potentially cite a BP. We model the problem of identifying potential citations (i.e., non-explicit) as a classification problem. However, a simple score is not enough to explain the results; that is why we use an interpretability machine learning method to explain the reason behind each identified citation. For a compelling visual exploration of documents and BPs, LegalVis comprises three interactive visual components: the first presents an overview of the data showing temporal patterns, the second allows filtering and grouping relevant documents by topic, and the last one shows a document's text aiming to interpret the model's output by pointing out which paragraphs are likely to mention the BP, even if not explicitly specified. We evaluated our identification model and obtained an accuracy of 96\%; we also made a quantitative and qualitative analysis of the results. The usefulness and effectiveness of LegalVis were evaluated through two usage scenarios and feedback from six domain experts.},
-	language = {English},
-	number = {6},
-	urldate = {2023-05-15},
-	journal = {IEEE Transactions on Visualization and Computer Graphics},
-	author = {Resck, Lucas E. and Ponciano, Jean R. and Nonato, Luis Gustavo and Poco, Jorge},
-	month = jun,
-	year = {2023},
-	note = {Presented at Visualization \& Visual Analytics (<b>VIS</b>) 2022},
-	keywords = {Data visualization, Task analysis, Visual analytics, Law, Natural language processing, Legal documents, natural language processing, Analytical models, Text analysis, Brazilian legal system, visual analytics},
-	pages = {3105--3120},
-	abbr = {TVCG 2023<br>VIS 2022},
-	arxiv = {2203.02001},
-	bibtex_show = true,
-	html = {https://doi.org/10.1109/TVCG.2022.3152450},
-	pdf = {https://arxiv.org/pdf/2203.02001.pdf},
-	video = {https://www.youtube.com/watch?v=0qY_NxLSGBk&t=26071s},
-	selected = {true},
+@article{wang2015tandem,
+  title={Tandem DNAzymes for mRNA cleavage: Choice of enzyme, metal ions and the antisense effect},
+  author={Wang, Feng and Saran, Runjhun and Liu, Juewen},
+  journal={Bioorganic \& medicinal chemistry letters},
+  volume={25},
+  number={7},
+  pages={1460--1463},
+  year={2015},
+  publisher={Elsevier}
 }
 
-@inproceedings{resck_exploring_2024,
-	address = {Mexico City, Mexico},
-	title = {Exploring the {Trade}-off {Between} {Model} {Performance} and {Explanation} {Plausibility} of {Text} {Classifiers} {Using} {Human} {Rationales}},
-	copyright = {Copyright © 2024 Association for Computational Linguists (ACL). Licensed under the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/). Disclaimer: No warranties are given. The ACL shall not be liable for any damages arising from the use of this article.},
-	url = {https://arxiv.org/abs/2404.03098},
-	abstract = {Saliency post-hoc explainability methods are important tools for understanding increasingly complex NLP models. While these methods can reflect the model's reasoning, they may not align with human intuition, making the explanations not plausible. In this work, we present a methodology for incorporating rationales, which are text annotations explaining human decisions, into text classification models. This incorporation enhances the plausibility of post-hoc explanations while preserving their faithfulness. Our approach is agnostic to model architectures and explainability methods. We introduce the rationales during model training by augmenting the standard cross-entropy loss with a novel loss function inspired by contrastive learning. By leveraging a multi-objective optimization algorithm, we explore the trade-off between the two loss functions and generate a Pareto-optimal frontier of models that balance performance and plausibility. Through extensive experiments involving diverse models, datasets, and explainability methods, we demonstrate that our approach significantly enhances the quality of model explanations without causing substantial (sometimes negligible) degradation in the original model's performance.},
-	urldate = {2024-04-05},
-	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {NAACL} 2024},
-	publisher = {Association for Computational Linguistics},
-	author = {Resck, Lucas E. and Raimundo, Marcos M. and Poco, Jorge},
-	month = jun,
-	year = {2024},
-	note = {To appear},
-	abbr = {NAACL<br>Findings 2024},
-	arxiv = {2404.03098},
-	bibtex_show = true,
-	pdf = {https://arxiv.org/pdf/2404.03098.pdf},
-	code = {https://github.com/visual-ds/plausible-nlp-explanations},
-	selected = {true},
+@article{zhou2017two,
+  title={Two completely different mechanisms for highly specific Na+ recognition by DNAzymes},
+  author={Zhou, Wenhu and Saran, Runjhun and Ding, Jinsong and Liu, Juewen},
+  journal={ChemBioChem},
+  volume={18},
+  number={18},
+  pages={1828--1835},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+@article{zhou2016new,
+  title={A new Na+-dependent RNA-cleaving DNAzyme with over 1000-fold rate acceleration by ethanol},
+  author={Zhou, Wenhu and Saran, Runjhun and Chen, Qingyun and Ding, Jinsong and Liu, Juewen},
+  journal={ChemBioChem},
+  volume={17},
+  number={2},
+  pages={159--163},
+  year={2016}
+}
+
+@article{zhou2017back,
+  title={Back Cover: An Exceptionally Selective DNA Cooperatively Binding Two Ca2+ Ions (ChemBioChem 6/2017)},
+  author={Zhou, Wenhu and Saran, Runjhun and Huang, Po-Jung Jimmy and Ding, Jinsong and Liu, Juewen},
+  journal={ChemBioChem},
+  volume={18},
+  number={6},
+  pages={571--571},
+  year={2017}
+}
+
+@article{saran2018folding,
+  title={Folding of the silver aptamer in a DNAzyme probed by 2-aminopurine fluorescence},
+  author={Saran, Runjhun and Yao, Lu and Hoang, Peter and Liu, Juewen},
+  journal={Biochimie},
+  volume={145},
+  pages={145--150},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{gu2018reselection,
+  title={Reselection yielding a smaller and more active silver-specific DNAzyme},
+  author={Gu, Lide and Saran, Runjhun and Yan, Wanli and Huang, Po-Jung Jimmy and Wang, Shujun and Lyu, Mingsheng and Liu, Juewen},
+  journal={ACS omega},
+  volume={3},
+  number={11},
+  pages={15174--15181},
+  year={2018},
+  publisher={American Chemical Society}
+}
+
+@article{zhou2017exceptionally,
+  title={An exceptionally selective DNA cooperatively binding two Ca2+ ions},
+  author={Zhou, Wenhu and Saran, Runjhun and Huang, Po-Jung Jimmy and Ding, Jinsong and Liu, Juewen},
+  journal={ChemBioChem},
+  volume={18},
+  number={6},
+  pages={518--522},
+  year={2017}
+}
+
+@article{saran2016comparison,
+  title={A comparison of two classic Pb 2+-dependent RNA-cleaving DNAzymes},
+  author={Saran, Runjhun and Liu, Juewen},
+  journal={Inorganic Chemistry Frontiers},
+  volume={3},
+  number={4},
+  pages={494--501},
+  year={2016},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{chandra2016deciphering,
+  title={Deciphering the role of Atg5 in nucleotide dependent interaction of Rab33B with the dimeric complex, Atg5-Atg16L1},
+  author={Chandra, Mintu and Saran, Runjhun and Datta, Sunando},
+  journal={Biochemical and biophysical research communications},
+  volume={473},
+  number={1},
+  pages={8--16},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{saran2015searching,
+  title={Searching for a DNAzyme Version of the Leadzyme},
+  author={Saran, Runjhun and Chen, Qingyun and Liu, Juewen},
+  journal={Journal of molecular evolution},
+  volume={81},
+  pages={235--244},
+  year={2015},
+  publisher={Springer US}
+}
+
+@article{saran2021phosphorothioate,
+  title={Phosphorothioate nucleic acids for probing metal binding, biosensing and nanotechnology},
+  author={Saran, Runjhun and Huang, Zhicheng and Liu, Juewen},
+  journal={Coordination Chemistry Reviews},
+  volume={428},
+  pages={213624},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{saran2020mechanical,
+  title={Mechanical flexibility of DNA: a quintessential tool for DNA nanotechnology},
+  author={Saran, Runjhun and Wang, Yong and Li, Isaac TS},
+  journal={Sensors},
+  volume={20},
+  number={24},
+  pages={7019},
+  year={2020},
+  publisher={MDPI}
+}
+
+@article{saran2021thioflavin,
+  title={Thioflavin T fluorescence and NMR spectroscopy suggesting a non-G-quadruplex structure for a sodium binding aptamer embedded in DNAzymes},
+  author={Saran, Runjhun and Piccolo, Kyle A and He, Yanping and Kang, Yongqiang and Huang, Po-Jung Jimmy and Wei, Chunying and Chen, Da and Dieckmann, Thorsten and Liu, Juewen},
+  journal={Canadian Journal of Chemistry},
+  volume={99},
+  number={11},
+  pages={860--866},
+  year={2021},
+  publisher={NRC Research Press 1840 Woodward Drive, Suite 1, Ottawa, ON K2C 0P7}
+}
+
+@article{perez2023machine,
+  title={Machine learning directed aptamer search from conserved primary sequences and secondary structures},
+  author={Perez Tobia, Javier and Huang, Po-Jung Jimmy and Ding, Yuzhe and Saran Narayan, Runjhun and Narayan, Apurva and Liu, Juewen},
+  journal={ACS Synthetic Biology},
+  volume={12},
+  number={1},
+  pages={186--195},
+  year={2023},
+  publisher={American Chemical Society}
+}
+
+@inproceedings{chharia2023captured,
+  title={cAPTured: Neural Reflex Arc-Inspired Fuzzy Continual Learning for Capturing in Silico Aptamer-Target Protein Interactions},
+  author={Chharia, Aviral and Saran, Runjhun and Narayan, Apurva},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--9},
+  year={2023},
+  organization={IEEE}
 }
