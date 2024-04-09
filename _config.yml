@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Lucas
-middle_name: Emanuel
-last_name: Resck
-email: lucas.resck@fgv.br
+first_name: Runjhun
+middle_name: Saran
+last_name: Narayan
+email: rsaran@uwaterloo.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal academic website. Based on [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
 footer_text: >
@@ -17,7 +17,7 @@ keywords: jekyll, github-pages, personal-website, academic, academic-website  # 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://lucasresck.github.io # the base hostname & protocol for your site
+url: https://rsaran-bioai.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -66,22 +66,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: lucasresck # your GitHub user name
+github_username: rsaran-bioai # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: lucasresck2 # your Twitter handle
+twitter_username: BioChem_AI # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: lucasresck # your LinkedIn user name
+linkedin_username: runjhun-saran-narayan-47b067102 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: ROLstoAAAAAJ # your Google Scholar ID
+scholar_userid: K9W1aY8AAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # 2164014168 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0001-9634-450X # your ORCID ID
+orcid_id:  # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-lattes_id: 6918672604813151 # your ID on Lattes (Brazilian Lattes CV)
+lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Lucas-Resck # your profile on ResearchGate
+research_gate_profile:  # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -103,16 +103,16 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Email is the best way to reach me: <a href="mailto:lucas.resck@fgv.br">lucas.resck@fgv.br</a>. Feel free to send me a message!
+  Email is the best way to reach me: <a href="mailto:rsaran@uwaterloo.ca">rsaran@uwaterloo.ca</a>. Feel free to send me a message!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-33VDKWQRPX # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: rOfFQMsGwmzmwSCI11vL5XUWmEiu4M0AJ-CMvNqkW3g # your google-site-verification ID (Google Search Console)
+google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
