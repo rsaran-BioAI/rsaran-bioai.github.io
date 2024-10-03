@@ -126,10 +126,10 @@ permalink: /blog/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
