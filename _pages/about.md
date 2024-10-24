@@ -25,4 +25,4 @@ I hold a PhD in Bio-Nanotechnology from  the University of Waterloo with [Juewen
 Research interests:
   - **Functional Nucleic Acids** 
   - **Biotechnology** 
-  - **AI in Healthcare & Environmental Sustainability** 
+  - **AI in Healthcare, Agroecology, & Environmental Sustainability** 
