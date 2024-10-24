@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am the CEO and Co-Founder of a Stealth mode AI-guided Biotech and an Affiliate Research Scientist at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
+subtitle: I am the CEO and Cofounder of a Stealth mode AI-guided Biotech and an Affiliate Research Scientist at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
 
 profile:
   align: right
