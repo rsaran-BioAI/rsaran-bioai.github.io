@@ -18,11 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Biochemistry, Biotechnology, and Artificial Intelligence are central to my work. I develop smart, sustainable, and robust innovations at the intersection of AI and Life Sciences, for advancing the field of Biotherapeutics, Bio-diagnostics, Drug Discovery, Biosensing, Agroecology, and Environmental Monitoring. I am a passionate Scientific Writer & Storyteller!
+Bio-Nanotechnology, and Artificial Intelligence are central to my work. I develop smart, sustainable, and robust innovations at the intersection of AI and Life Sciences, for advancing the field of Biotherapeutics, Bio-diagnostics, Drug Discovery, Biosensing, Agroecology, and Environmental Monitoring. I am a passionate Scientific Writer & Storyteller!
 
 I hold a PhD in Bio-Nanotechnology from  the University of Waterloo with [Juewen Liu](https://uwaterloo.ca/chemistry/profile/liujw). I received a M.S. in Biotechnology from Anna University, India.
 
 Research interests:
   - **Functional Nucleic Acids** 
-  - **Biotechnology** 
+  - **Biotechnology**
+  - **Nanotechnology** 
   - **AI in Healthcare, Agroecology, & Environmental Sustainability** 
