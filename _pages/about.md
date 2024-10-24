@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Runjhun Saran Narayan</p>
-    <p>Canada</p>
+   
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
