@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am the **Cofounder** of a <a href='https://www.molwise.ca/'>Stealth mode AI-guided Biotech</a> Venture, and **Scientific Advisor** at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
+subtitle: I am the Cofounder** of a <a href='https://www.molwise.ca/'>Stealth mode AI-guided Biotech</a> Venture, and Scientific Advisor at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
 
 profile:
   align: right
