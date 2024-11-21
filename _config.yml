@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Runjhun
 middle_name: Saran
 last_name: Narayan
-email: rsaran@uwaterloo.ca
+email: runjhun.sn@molwise.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal academic website. Based on [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
 footer_text: >
@@ -122,7 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: 
-permalink: /blog/
+permalink: https://www.molwise.ca/blog
 
 # Pagination
 pagination:
