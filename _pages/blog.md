@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /_posts/
+permalink: (https://www.molwise.ca/blog)
 title: blog
 nav: true
 nav_order: 4
