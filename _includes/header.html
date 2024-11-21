@@ -51,7 +51,7 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_nav_title %}
+              <!- {% if site.blog_nav_title %} -->
               <!-- Blog -->
               <li class="nav-item"><a class="nav-link" href="https://www.molwise.ca/blog">Blog</a></li> 
               <!-- <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
@@ -61,7 +61,7 @@
                   {%- endif -%}
                 </a>
               </li> -->
-              {%- endif %}
+             <!-- {%- endif %} -->
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
