@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Kitchener, Ontario, Canada. <br> <br> I am the Founder and CEO of <a href='https://www.molwise.ca/'>MOLwise Biosciences Inc.</a>, an adjunct professor at the University of Waterloo and <a href='https://cmps.ok.ubc.ca/about/contact/runjhun-saran-narayan/'> the University of British Columbia, Canada, and Scientific Advisor at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
+subtitle: Kitchener, Ontario, Canada. <br> <br> I am the Founder and CEO of <a href='https://www.molwise.ca/'>MOLwise Biosciences Inc.</a>, an adjunct professor at <a href='https://uwaterloo.ca/systems-design-engineering/contacts/runjhun-saran-narayan'>the University of Waterloo and <a href='https://cmps.ok.ubc.ca/about/contact/runjhun-saran-narayan/'> the University of British Columbia, Canada, and Scientific Advisor at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
 
 profile:
   align: right
