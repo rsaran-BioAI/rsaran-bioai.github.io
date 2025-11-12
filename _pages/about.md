@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Kitchener, Ontario, Canada. <br> <br> I am the Co-Founder of a <a href='https://www.molwise.ca/'>Stealth mode AI-powered Biotech</a> Venture, and Scientific Advisor at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
+subtitle: Kitchener, Ontario, Canada. <br> <br> I am the Founder and CEO of <a href='https://www.molwise.ca/'>MOLwise Biosciences Inc.</a>, an adjunct professor at the University of Waterloo and the University of British Columbia, Canada, and Scientific Advisor at <a href='https://icasssd.org'>International Center for Applied Systems Science for Sustainable Development</a>, Cambridge, ON, Canada
 
 profile:
   align: right
